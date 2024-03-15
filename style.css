@@ -2,3 +2,9 @@ h1{
     color:aqua;
     text-align: center;
 }
+img{
+    padding: 10px;
+    height: 200px;
+    max-width: 10%; /* Đảm bảo hình ảnh không vượt quá kích thước của ô */
+  max-height: 100%;
+}
